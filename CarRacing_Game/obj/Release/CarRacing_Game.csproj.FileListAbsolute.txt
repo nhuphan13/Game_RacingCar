@@ -1,0 +1,10 @@
+D:\LTGD\CarRacing_Game\CarRacing_Game\bin\Release\CarRacing_Game.exe.config
+D:\LTGD\CarRacing_Game\CarRacing_Game\bin\Release\CarRacing_Game.exe
+D:\LTGD\CarRacing_Game\CarRacing_Game\bin\Release\CarRacing_Game.pdb
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.csprojAssemblyReference.cache
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.Form1.resources
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.Properties.Resources.resources
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.csproj.GenerateResource.cache
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.csproj.CoreCompileInputs.cache
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.exe
+D:\LTGD\CarRacing_Game\CarRacing_Game\obj\Release\CarRacing_Game.pdb
